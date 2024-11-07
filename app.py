@@ -11,6 +11,9 @@ restaurante_praca.adicionar_no_cardapio(bebida_suco)
 restaurante_praca.adicionar_no_cardapio(prato_paozinho)
 
 
+
+
+
 def main():
     restaurante_praca.exibir_cardapio
     
